@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Raynier G. Arca
 
 Hey!
-hehehe
+Seize the day! 
 <br> 
 <br><br>
 
