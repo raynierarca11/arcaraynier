@@ -16,6 +16,9 @@ rgarca.work@gmail.com
 **arcaraynier/arcaraynier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+you know there are certain things in life that needs to be planned and achieved. 
+you can do it self! 
 -->
 
 - 🔭 I’m currently working on ... a project on a Python
