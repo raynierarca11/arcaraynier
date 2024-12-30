@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 you know there are certain things in life that needs to be planned and achieved. 
 you can do it self! 
+
+Learn new skill and explore for more!
 -->
 
 - 🔭 I’m currently working on ... a project on a Python
