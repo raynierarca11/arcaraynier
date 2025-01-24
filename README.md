@@ -9,9 +9,11 @@ Hello
 :sparkles: I'm currently upskilling through coursera and udemy <br> <br>
 
 :envelope: How to reach me? 
-
-
 rgarca.work@gmail.com 
+
+Learning
+
+
 
 
 
