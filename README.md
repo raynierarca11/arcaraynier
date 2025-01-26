@@ -1,8 +1,7 @@
 ## Hi 👋, I'm Raynier G. Arca
 
 Hey!
-Seize the day! 
-Hello
+Carpe Diem. 
 <br> 
 <br><br>
 
