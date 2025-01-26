@@ -10,8 +10,9 @@ Hello
 
 :envelope: How to reach me? 
 
-
 rgarca.work@gmail.com 
+
+📩 https://www.linkedin.com/in/arcaraynier/
 
 
 
