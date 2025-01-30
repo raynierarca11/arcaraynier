@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Raynier G. Arca
 
-Hey!
+Hey! <br>
 Carpe Diem. 
 <br> 
 <br><br>
@@ -12,6 +12,7 @@ Carpe Diem.
 rgarca.work@gmail.com 
 
 📩 https://www.linkedin.com/in/arcaraynier/
+:accessibility: Hello
 ..
 
 
