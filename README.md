@@ -11,7 +11,7 @@ Hello
 :envelope: How to reach me? 
 
 
-rgarca.work@gmail.com xd
+rgarca.work@gmail.com xd.
 
 
 
